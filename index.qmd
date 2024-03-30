@@ -161,6 +161,10 @@ Here are some links that I find useful:
 - There is also a societal impact of generative AI technologies 
   - They can create divides an inequality
   - There is [evidence](https://time.com/6247678/openai-chatgpt-kenya-workers/) that the workers who curate these models are treated unfairly or even inhumanely by their employers. This [interview from today](https://blogs.lse.ac.uk/businessreview/2024/03/25/madhumita-murgia-ai-can-do-harm-when-people-dont-have-a-voice/) also paints a good picture of how and where AI work can harm people.
+  
+- The energy consumption required for training large models contributes to carbon emissions. 
+  - There is already a larger than necessary hidden carbon footprint
+
 
 # Policy
 
