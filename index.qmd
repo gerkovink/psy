@@ -4,7 +4,7 @@ subtitle: "Exploring New Developments and Implications"
 author: 
   - name: Gerko Vink
     orcid: 0000-0001-9767-1924
-date: 15 Mar 2023
+date: 9 Apr 2023
 date-format: "D MMM YYYY"
 format: 
   revealjs:
@@ -81,6 +81,11 @@ Some common examples of generative AI technologies include:
 ![](img/ai_train.webp){width="100%"}
 :::
 :::
+
+::: {.footer}
+Image prompt: *generate an image of an AI in android form training with weights in a gym*
+:::
+
 
 ## Who develops generative AI tools
 
