@@ -33,11 +33,11 @@ You **may use** any and all content in this presentation - including my name - a
 
 - You must ensure that the content is not used for further training of the model
 <br><br><br>
-<center>
-source: <br>
-[www.gerkovink.com/psy](https://www.gerkovink.com/psy)<br>
-[github.com/gerkovink/psy](https://github.com/gerkovink/psy)<br>
-</center>
+
+Source:
+
+- [www.gerkovink.com/psy](https://www.gerkovink.com/psy)
+- [github.com/gerkovink/psy](https://github.com/gerkovink/psy)
 
 ## First of all
 ::: {.callout-tip}
